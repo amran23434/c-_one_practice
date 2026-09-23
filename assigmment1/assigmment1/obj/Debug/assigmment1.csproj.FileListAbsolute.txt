@@ -1,0 +1,10 @@
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.Form1.resources
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\bin\Debug\assigmment1.exe.config
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\bin\Debug\assigmment1.exe
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\bin\Debug\assigmment1.pdb
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.exe
+C:\Users\amrii\OneDrive\Documents\adnooo\assigmment1\assigmment1\obj\Debug\assigmment1.pdb
